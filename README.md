@@ -1,6 +1,8 @@
 Selendroid
 ==========
 
+[![Join the chat at https://gitter.im/kbhat2376/selendroid](https://badges.gitter.im/kbhat2376/selendroid.svg)](https://gitter.im/kbhat2376/selendroid?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/selendroid/selendroid.png?branch=master)](https://travis-ci.org/selendroid/selendroid)
 
 Selendroid is a test automation framework which drives of the UI of Android native and hybrid applications (apps) and the mobile web with Selendroid. Tests are written using the Selenium 2 client API and for testing the application under test must not be modified. 
